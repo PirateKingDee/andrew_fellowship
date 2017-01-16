@@ -9,15 +9,12 @@
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
-		<?php include("header.php"); ?>
+		<?php include("inc/header.php"); ?>
 		<div>
 			<h1>main content will be put here</h1>
 			<h2d>Insert a picture below</h2>
 		</div>
 
-		<footer>
-			<p>&COPY Andy Liang</p>
-
-		</footer>
+		<?php include("inc/footer.php"); ?>
 	</body>
 </html>
