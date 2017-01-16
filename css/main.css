@@ -1,0 +1,33 @@
+/*********************************************
+header
+*********************************************/
+header {
+  background-color: #000;
+  border:10px solid #1C2833;
+}
+header h1{
+  color: #fff;
+  text-align: center;
+  margin: 20px auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 64px;
+}
+header li{
+  display:inline;
+}
+header ul{
+  text-align: center;
+  padding-left: 0;
+  background-size: 100px 50px;
+}
+nav a{
+  text-decoration: none;
+  color:#fff;
+  font-family: 'Lemonada', cursive;
+}
+nav li{
+  margin:auto 20px;
+}
+nav a:hover{
+  color: #424949;
+}
